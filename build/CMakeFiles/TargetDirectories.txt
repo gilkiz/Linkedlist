@@ -1,0 +1,3 @@
+C:/Users/DELL/OneDrive/Desktop/Technion/train/linkedlist/build/CMakeFiles/my_executable.dir
+C:/Users/DELL/OneDrive/Desktop/Technion/train/linkedlist/build/CMakeFiles/edit_cache.dir
+C:/Users/DELL/OneDrive/Desktop/Technion/train/linkedlist/build/CMakeFiles/rebuild_cache.dir
